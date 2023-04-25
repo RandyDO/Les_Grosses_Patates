@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5DEB3;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #8B0000;
+    text-shadow: 1px 1px #FFF;
+  }
+  
+  p, li {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #2F4F4F;
+  }
+  
+  ul {
+    list-style-type: square;
+    margin-left: 30px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .fun-fact {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: #8B0000;
+    text-shadow: 1px 1px #FFF;
+  }
+  
